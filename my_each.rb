@@ -1,4 +1,6 @@
-def my_each(array)
+collection = []
+
+def my_each(collection)
   collection.each do |i|
     puts i
 end
